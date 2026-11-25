@@ -1,0 +1,1 @@
+http://university500-api.runasp.net/swagger?utm_source=chatgpt.com
